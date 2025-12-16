@@ -28,7 +28,7 @@ header img{
     padding: .5rem;
 }
 .dropdown h1{
-    margin: .75rem 2;
+    margin: 0.75rem 2rem;
     border: 10px solid #231f20;
     color: #d4af37;
     background-color: #231f20;
@@ -73,7 +73,7 @@ footer img{
     justify-content: space-around;
 }
 footer{
-    padding-bottom: 4 rem;
+    padding-bottom: 4rem;
     background-color: #231f20;
 }
 .aboutmain div{
