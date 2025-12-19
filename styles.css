@@ -124,6 +124,9 @@ footer{
     padding-bottom: 2rem;
     border-radius: .5rem;
 }
+.current{
+    background-color: rgb(243, 17, 17);
+}
 @media (min-width:1000px){
     nav.toggle-nav{
         opacity: 1;
