@@ -17,10 +17,9 @@ header img{
     background-color: #231f20;
     position: relative;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 .header2 h1{
-    width: 100px;
     padding: .5rem;
 }
 .dropdown{
@@ -28,7 +27,7 @@ header img{
     padding: .5rem;
 }
 .dropdown h1{
-    margin: 0.75rem 2rem;
+    margin: 1rem 2rem;
     border: 10px solid #231f20;
     color: #d4af37;
     background-color: #231f20;
